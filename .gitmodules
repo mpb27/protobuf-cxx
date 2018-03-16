@@ -1,0 +1,3 @@
+[submodule "submodules/magic_get"]
+	path = submodules/magic_get
+	url = http://github.com/apolukhin/magic_get
